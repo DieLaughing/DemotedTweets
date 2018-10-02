@@ -1,6 +1,8 @@
 # DemotedTweets
 A Twitter Advertiser Block-List
 
+[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+
 Import the .csv file to your Twitter account for an improved experience.
 Use the .html file to cross reference the user id number for selective editing.
 
